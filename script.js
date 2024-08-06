@@ -19,7 +19,7 @@ function compareNumbers(firstNumber, secondNumber) {
   return 0;
 }
 
-console.log(`Task 1.3, compare 2 numbers: ${compareNumbers(707, 10), compareNumbers(-4, 5), compareNumbers(50, 50)}`);
+console.log(`Task 1.3, compare 2 numbers. 707 and 10: ${compareNumbers(707, 10)}, -4 and 5: ${compareNumbers(-4, 5)}, 50 and 50: ${compareNumbers(50, 50)}`);
 
 
 //Task 1.4
